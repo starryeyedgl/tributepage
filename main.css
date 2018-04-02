@@ -1,0 +1,64 @@
+body {
+  margin: 60px;
+  background-color: white;
+  font-family: Verdana
+}
+
+.main {
+  background: lightgrey;
+  border-radius: 5px;
+  padding-top: 20px;
+}
+
+.andrew{
+  max-width: 100%;
+  padding-top: 15px;
+  padding-bottom: 15px; 
+}
+
+.caption{
+  padding-bottom: 15px;
+}
+
+.block{
+  background-color:white;
+  border-radius: 5px;
+}
+
+.intro{
+  font-size:14px;
+}
+
+.show-pic{
+  height: 278px;
+  padding-botton:5px;
+}
+
+.shows img {
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.shows:hover img {
+	-webkit-filter: grayscale(100);
+	filter: grayscale(100);
+}
+
+
+.padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+li{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.read-more{
+  font-size: 14px;
+}
+
+.title{
+  padding-bottom:15px;
+}
